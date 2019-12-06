@@ -2,7 +2,7 @@ package webp
 
 /*
 #include <stdlib.h>
-#include "libwebp/webp/decode.h"
+#include "/usr/include/webp/decode.h"
 
 static VP8StatusCode CheckDecBuffer(const WebPDecBuffer* const buffer);
 
